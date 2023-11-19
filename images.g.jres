@@ -4,6 +4,76 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImages"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8//////////zu7u7u7u7+/P7u7v/u/v787u7+u+/u/vzu7r/M++7+/O7uv8z77v787u7+u+/u/vz+7u7/7v7+/O7u7u7u7v78/////////8zMzMzMzMzMzMzMzMzMzAwAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "instrument3"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAA/+8AAAAAAPD/7g4AAAAA8G5E5AAAAADwRkREDgAA8P9GRETkAAD/L0TuROQAAO9GRORO5AAAb0T+Qk7kAABuRP9PROQAAOBE8k5EDgAA/09EJO4AAPDv7kTkAADw/+4A7g4AAO/kDgAAAAAAT+QAAAAAAADvDgAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "instrument2"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAwMz8////AAC8LLLMzPwAwLss0sy7/AC8u9zdvMzLD7y7u93f37wPvLvL3dv/vA+8u8vdzf2/D8C7y9v93Pv/wLu73L3////Au7vcvf///MC7u8zMzMz8ALy7MzMzM/sAvDuzu7u7DAC8M7u7u8sAADyzu7u7DAAAwMzMzMwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "camera"
+    },
+    "image6": {
+        "data": "hwQQABAAAAD//////////x/RHbHbu9u9H7u7sd3P/L3fu7u9/c/8v9+7u73/zMz/37u7vczMzMzfu7u9zMzMzN+7u73MzMzM37u7vczMzMzfu7u9zMzMzN+7u73MzMzM37u7vf/MzP/fu7u9/c/8vx+7u7Hdz/y9H9Edsdu7273//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "stack"
+    },
+    "image7": {
+        "data": "hwQQABAAAAC7iIiIiIiIiLGIERZmZmZmEYhhEWZmZmYRiGdmZoiIZxGIERFmaGZnEYhnZmZoZmcRiBERZmhmZxGIcWdmaGZnEYgWEWZoZmcRiGZmZmhmZxGIEXFmaGZnEYhhEWZIaGcRiGZmZlSFZxGIERFmVIVmsYhxFmZGaGa7iIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "stage"
+    },
+    "image8": {
+        "data": "hwQQABAAAAC77u7u7u7u7rHuIiIiIiIiEe4SESEiIiIR7hIjIe7uIxHuIiIiLiIjEe4SMyEuIiMR7iIRIi4iIxHuEjMhLiIjEe4iIiIuIiMR7hIRIS4iIxHuIiIiLiIjEe4SIiJOLiMR7hIR4VTlIxHuEiLiVOUise4iIiJOLiK77u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "exit"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAPAR8Q8AAAAAHxHx8QD///8f8f/x8BEhEfH/EfHwESER8RER8fARESHxERHx8BEREfHxH/HwESER8RH///ARIRHxH/EA8BEhEfH//wAA////DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fan1"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAP//AAAAAAAAH/H/AAAAAP8fEfH/DwDwH/8RERH/AP8R8R8REfEPHyEREREREQ8fIRERERER8R8RERERERHxHxEREhEREfEfIRHxEf8R8R8hEf8RDx/x/xHxHxEPHw/wH/8f8Q//DwDwDx/xAAAAAAAA/w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fan3"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD//wDw//8AAB/xAP8REf8AH/EP//8R8QDwEQ8A8B/x//8f/wDwH/Ef8f/xAP8R8R8h8RH/ERHxHyEREREREfEfESERERERDx8hER/x//8AHyER//EAAAAfIfH/8Q8AAP////AfDwAAAAAAAP8PAAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fan2"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAALALsAsAAAAA27u7vQAAAAC7HdG9DgAAsB0RsfvsALDbEd0R+88O2xvR3RH7/+y7Hd3d0Vv/z7AR3R2xVfX/sBEREbv8Vf+7vRG9+8///9u9u1v8//z/sPv/VcX/zw8Azv9f9fz/DwDg/P9Vz+8AAADO///vDgAAAOD8/w8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "instrument0"
+    },
+    "image13": {
+        "data": "hwQQABAAAAAAAAAA/+4AAAAAAPDu7g4AAAAA4C5m5gAAAADwZmRmDgDw7/9mXGbmAP/u/2bcZ+YA72ZmZrGd5gBuZmYWEczqAG4G8BkRYeYA7gDvnhFmDgAA8O5u6e4AAADvDm7mAADw8u4AZuYAAO/kDgDuDgAAeeUAAAAAAADvDgAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "instrument1"
+    },
+    "image14": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAPD8/P///wAA8M/PQnWpDwDw/PxvZmYPAPDPz29mZg8A8Pz8b9tmDwDwz8////8AAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "instrument4"
+    },
+    "image15": {
+        "data": "hwQQABAAAAD8zMyZzMzM/PzMnGb/zMz8/8y/ZvvMzPz8LP9mlsz//8xCImlmycz8LEJCkmb2z/zCIiLya7bP/MwsJPxvlszM/MzEzJzJ/Mz8/8LMzMz8zPwszPzMzPzM/MzM/MzM/P/M/Pz/zMz8zMz8zPzM/P/M/P/M/P/M/MzM/Mz8zMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wall"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAPDv+//vAAAA77/t/8zOBvDuvtvL/IgG8O7r3Mv+iAbw7r+9z8zMBgDgz+v/7wAAAADvDv8AAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rocker"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
