@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://kalebcaron.github.io/techno-talons/](https://kalebcaron.github.io/techno-talons/)
+> Play this game at [https://arcade.makecode.com/S75610-86055-49612-39773](https://arcade.makecode.com/S75610-86055-49612-39773)
 
 ## Use as Extension
 
